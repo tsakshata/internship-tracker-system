@@ -1,1 +1,3 @@
-console.log("Internship Tracker Started");
+function showMessage() {
+    alert("Project Updated Successfully");
+}

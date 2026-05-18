@@ -1,4 +1,9 @@
-body{
+body {
+    background-color: lightblue;
     font-family: Arial;
-    padding: 20px;
+}
+
+button {
+    background-color: blue;
+    color: white;
 }
