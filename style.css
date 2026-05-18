@@ -182,16 +182,16 @@ button#add-btn:hover { background: #5a67d8; }
   margin-top: 6px;
 }
 
-.badge-Active    { background: #c6f6d5; color: #276749; }
+.badge-Active    { background: #a4afbe; color: #4a8c9a; }
 .badge-Pending   { background: #feebc8; color: #7b341e; }
 .badge-Completed { background: #e9d8fd; color: #44337a; }
 
 .card-actions { display: flex; gap: 8px; }
 
 .btn-delete {
-  background: #fff5f5;
+  background: #794365;
   color: #e53e3e;
-  border: 1px solid #fed7d7;
+  border: 1px solid #f6c8c8;
   padding: 6px 12px;
   border-radius: 6px;
   cursor: pointer;
@@ -199,11 +199,11 @@ button#add-btn:hover { background: #5a67d8; }
   transition: background 0.2s;
 }
 
-.btn-delete:hover { background: #fed7d7; }
+.btn-delete:hover { background: #b56a6a; }
 
 .empty-msg {
   text-align: center;
-  color: #a0aec0;
+  color: #aac8ef;
   padding: 40px 0;
   font-size: 0.95rem;
 }
